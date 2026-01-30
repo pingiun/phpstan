@@ -27,5 +27,8 @@
 		"source": "https://github.com/phpstan/phpstan-src",
 		"docs": "https://phpstan.org/user-guide/getting-started",
 		"security": "https://github.com/phpstan/phpstan/security/policy"
-	}
+	},
+    "replace": {
+        "phpstan/phpstan": "2.1.37"
+    }
 }
